@@ -29,7 +29,7 @@ http://localhost:8080
 ### Read my next project:Personal blog<br/>
 *https://github.com/flora8778/Personal-Blog-System*
 ### Some previews<br/>
-<img src="https://github.com/flora8778/hrsystem/blob/master/baby/preview/Login.png" width=100% height=50%>
+<img src="https://github.com/flora8778/hrsystem/blob/master/baby/preview/LOGIN.png" width=100% height=50%>
 <img src="https://github.com/flora8778/hrsystem/blob/master/baby/preview/Home.png" width=100% height=50%>
 <img src="https://github.com/flora8778/hrsystem/blob/master/baby/preview/Department.png" width=100% height=50%>
 <img src="https://github.com/flora8778/hrsystem/blob/master/baby/preview/Position.png" width=100% height=50%>
