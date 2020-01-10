@@ -29,7 +29,7 @@ http://localhost:8080
 ### Read my next project:Personal blog<br/>
 *https://github.com/flora8778/Personal-Blog-System*
 ### Some previews<br/>
-<img src="https://github.com/ValueStar/hrsystem/baby/master/preview/Login.PNG">
-<img src="https://github.com/ValueStar/hrsystem/baby/master/preview/Home.PNG">
-<img src="https://github.com/ValueStar/hrsystem/baby/master/preview/Department.PNG">
-<img src="https://github.com/ValueStar/hrsystem/baby/master/preview/Position.PNG">
+<img src="https://github.com/flora8778/hrsystem/baby/preview/Login.PNG">
+<img src="https://github.com/flora8778/hrsystem/baby/preview/Home.PNG">
+<img src="https://github.com/flora8778/hrsystem/baby/preview/Department.PNG">
+<img src="https://github.com/flora8778/hrsystem/baby/preview/Position.PNG">
