@@ -28,7 +28,7 @@ http://localhost:8080
 2. If this is helpful, please give me a star, thank you.
 ### Read my next project:Personal blog<br/>
 *https://github.com/flora8778/Personal-Blog-System*
-### 本项目截图<br/>
+### Some previews<br/>
 <img src="https://github.com/ValueStar/hrsystem/baby/master/preview/Login.PNG">
 <img src="https://github.com/ValueStar/hrsystem/baby/master/preview/Home.PNG">
 <img src="https://github.com/ValueStar/hrsystem/baby/master/preview/Department.PNG">
